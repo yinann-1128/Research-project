@@ -3,3 +3,4 @@ title: "Research Project"
 format: html
 ---
 
+my_data <- read.csv("Data D:/Research Project.1/Interaction Output.csv")
